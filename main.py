@@ -57,4 +57,4 @@ async def on_message(message):
     elif message.content.startswith('>')  :
       await message.channel.send('⚠️command not recognized⚠️')
 keep_alive.keep_alive()
-client.run('Njg2MjM5MjQ2Mzk0MDY0OTE0.XmUULA.KL0fb55L3Y3Y61-YbBi4rEwBGBE')
+client.run('Token that might have been used for malicious puroses.')
